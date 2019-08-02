@@ -1,0 +1,10 @@
+COMANDOS PARA COMPILAR EN C Y C++ EN MI TERMINAL:
+
+C:
+clang 'program-name' -o 'program-name'.c
+
+C++:
+clang++ -o 'program-name' 'program-name'.cpp
+
+PARA CORRER EL PROGRAMA YA COMPILADO USAMOS EL SIGUIENTE COMANDO:
+./'program-compiled-name'
